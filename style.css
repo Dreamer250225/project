@@ -316,7 +316,7 @@ h1,h2,h3,p{
     }
 }
 
-.contact {
+#contact {
     padding: 20px;
     margin: 20px;
     border: 1px solid #ccc;
@@ -332,12 +332,15 @@ h1,h2,h3,p{
     color: #333;
 }
 
-footer {
-    text-align: center;
+.footer {
     padding: 10px 0;
-    background: #333;
-    color: #fff;
-    position: relative;
-    bottom: 0;
-    width: 100%;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    
+}
+
+.footer hr{
+    margin-left: 15%;
+    margin-right: 15%;
 }
