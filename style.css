@@ -36,6 +36,10 @@ h1 {
     justify-content: center;
 }
 
+.nav a:hover {
+    color: #8929AD;
+}
+
 .btn{
     color: #272341;
     line-height: 1.6rem;
